@@ -976,7 +976,7 @@ function validate33() {
 
         win.document.write(' <p style="text-align:left;padding-left:10px;padding-right:10px;margin-top:20px">'+'আমার স্বাক্ষর এবং অফিস সীল দ্বারা সাক্ষ্য'+'</p>');
 
-        win.document.write('<table>' + '<tr><td style="padding-left:10px;">' + 'ঋণগ্রহীতার স্বাক্ষর' + '</td><td style="padding-left:10px;">' + '<img src="'+sigImage+'" class="nidimg" alt="Paris" id="fron4" height="100" width="120" style="padding:20px">' + '</td>'  + '<tr>' + '<tr><td style="padding-left:10px;">' + 'ঋণদাতার স্বাক্ষর' + '</td><td style="padding-left:10px;">' + '<img src="assets/img/bd.png" class="nidimg" alt="Paris" id="fron4" height="100" width="120" style="padding:20px">' + '</td>'  + '<tr>' + '<tr><td style="padding-left:10px;">' + '</td>'  +   '</table>');
+        win.document.write('<table>' + '<tr><td style="padding-left:10px;">' + 'ঋণগ্রহীতার স্বাক্ষর' + '</td><td style="padding-left:10px;">' + '<img src="'+sigImage+'" class="nidimg" alt="Paris" id="fron4" height="100" width="120" style="padding:20px">' + '</td>'  + '<tr>' + '<tr><td style="padding-left:10px;">' + 'ঋণদাতার স্বাক্ষর' + '</td><td style="padding-left:10px;">' + '<img src="assets/img/deed.jpeg" class="nidimg" alt="Paris" id="fron4" height="100" width="120" style="padding:20px">' + '</td>'  + '<tr>' + '<tr><td style="padding-left:10px;">' + '</td>'  +   '</table>');
 
 
 
